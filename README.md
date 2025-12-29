@@ -17,3 +17,6 @@ After setting these parameters, the notebook will download daily PRISM climate r
 This repository is intended to simplify and standardize bulk access to PRISM daily climate data for research and analysis.
 
 Huge thanks to the PRISM Climate Group, a part of the Northwest Alliance for Computational Science and Engineering (NACSE) at Oregon State University, for making these datasets freely accessible. The upgrade to freely available 800 m resolution products is especially appreciated.
+
+References:
+Link to the Dataset download via Web Service instruction document: https://prism.oregonstate.edu/documents/PRISM_downloads_web_service.pdf
