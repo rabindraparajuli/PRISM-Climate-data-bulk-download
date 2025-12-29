@@ -6,9 +6,11 @@ The code downloads PRISM daily climate data in bulk, organizes the files by vari
 
 **The workflow requires changing only three inputs:**
 
-The local output directory
-The date range
-The PRISM variable(s) of interest
+- The local output directory
+
+- The date range
+
+- The PRISM variable(s) of interest
 
 After setting these parameters, the notebook will download daily PRISM climate rasters for the entire CONUS directly to your local machine.
 
